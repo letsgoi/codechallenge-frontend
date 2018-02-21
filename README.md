@@ -1,5 +1,9 @@
 # Code Challenge - Backend
 
+Hola,
+
+Antes de nada, agradecerte dedicar parte de tu tiempo a la realización de este pequeña prueba técnica.
+
 # Enunciado
 
 Imaginemos que un cliente solicita el envío de un pedido mediante una llamada a la API REST para almacenarlo en la base de datos.
@@ -36,3 +40,7 @@ Por otro lado, nuestros drivers mediante su aplicación, necesitan obtener el li
 - Haz un fork de este repositorio.
 - Resuelve el ejercicio.
 - Comparte tu fork para la corrección (Reporter access)
+
+Si tienes alguna duda, puedes contactar con nosotros en `tech@letsgoi.com`
+
+Muchas gracias y suerte.
