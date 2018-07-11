@@ -22,7 +22,7 @@ Una vez tenemos guardada la información del pedido, debe asignarse a un driver 
 Por otro lado, nuestros drivers mediante su aplicación, necesitan obtener el listado de tareas para completar en el día. Es necesario contar con un endpoint que reciba como parámetro el ID del driver y la fecha de los pedidos que queremos obtener y nos devuelva un JSON con el listado.
 
 # TODO
-- Arquitectura de aplicación en Symfony
+- Arquitectura de aplicación en Laravel
 - Construir el modelo de datos en MYSQL con todas las entidades y relaciones
 - Endpoint para persistir el pedido en BD
 - Endpoint para mostrar los pedidos a entregar por los drivers
@@ -30,7 +30,7 @@ Por otro lado, nuestros drivers mediante su aplicación, necesitan obtener el li
 # Evaluable
 - Diseño modelado de datos
 - API REST con sus endpoints
-- Arquitectura de aplicación en Symfony
+- Arquitectura de aplicación en Laravel
 - Utilización del ORM
 - Uso de buenas prácticas
 - Patrones de diseño utilizados
